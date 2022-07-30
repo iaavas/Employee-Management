@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/font">
+        <file>fonts/terminal-regular.otf</file>
+    </qresource>
+</RCC>

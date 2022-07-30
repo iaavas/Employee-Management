@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/logos">
+        <file>logo/1200px-SQLite370.svg.png</file>
+        <file>logo/ISO_C++_Logo.svg.png</file>
+        <file>logo/Qt_logo_2016.svg.png</file>
+    </qresource>
+</RCC>

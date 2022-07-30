@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/lg">
+        <file>cal.png</file>
+        <file>icons8_Find_User_Male_50px.png</file>
+        <file>icons8_Hand_50px.png</file>
+    </qresource>
+</RCC>
